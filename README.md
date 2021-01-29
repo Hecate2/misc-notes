@@ -12,3 +12,7 @@ You may also change the value of `HKEY_CLASSES_ROOT\Python.File\DefaultIcon` to 
 Alternatively, watch your registry with `FileTypesMan` http://www.nirsoft.net/utils/file_types_manager.html. Find the `.py` association and open the registry from `FileTypesMan`, or directly edit the registry with `FileTypesMan`.
 
 Reference: https://superuser.com/questions/606916/windows-insists-associating-py-files-with-the-wrong-version-of-python
+
+### Google Colaboratory using Python 2 and potentially Tensorflow 1
+
+https://colab.research.google.com/notebook#create=true&language=python2
